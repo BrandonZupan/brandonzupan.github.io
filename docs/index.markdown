@@ -6,3 +6,5 @@ layout: default
 ---
 
 - [About Me](about)
+- [Mae](mae)
+- [Photos](photos)
